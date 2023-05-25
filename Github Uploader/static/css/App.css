@@ -1,0 +1,55 @@
+.App {
+
+}
+
+.flex-row {
+  display: flex;
+  flex-direction: row;
+}
+
+.flex-col {
+  display: flex;
+  flex-direction: column;
+}
+
+.m2 {
+  margin: 2vmin;
+}
+
+.m4 {
+  margin: 4vmin;
+}
+
+
+.gen-simple {
+  min-height: 100vh;
+  font-size: calc(10px + 2vmin);
+  color: black;
+  align-items: center;
+  width: 100%;
+}
+
+.qaw-left {
+  width: 88vw;
+}
+
+.qaw-right {
+  align-items: flex-end;
+  white-space: nowrap;
+}
+
+.gen-title {
+  padding: 2vw;
+}
+
+.gen-content {
+  align-items: center;
+}
+
+.gen-result {
+
+}
+
+.link-blue {
+  color: blue;
+}
