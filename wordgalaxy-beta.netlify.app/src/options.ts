@@ -1,0 +1,1 @@
+No Content: https://wordgalaxy-beta.netlify.app/src/options.ts
